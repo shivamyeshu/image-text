@@ -1,0 +1,21 @@
+{
+  "name": "text-image",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "text",
+    "to",
+    "image"
+  ],
+  "license": "ISC",
+  "author": "shivam",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "path": "^0.12.7",
+    "tesseract.js": "^6.0.0"
+  }
+}
